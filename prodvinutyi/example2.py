@@ -42,5 +42,3 @@
 #     if a[i][n - i - 1] < minimum:
 #         minimum = a[i][n - i - 1]
 # print(minimum + maximum)
-
-print(1+3)
