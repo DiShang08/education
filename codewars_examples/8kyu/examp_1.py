@@ -11,15 +11,15 @@
 
 # 2
 # var1
-def count_sheep(n):
-    res = ""
-    for i in range(1, n+1):
-        res += str(i)+' sheep...'
-    return res
+# def count_sheep(n):
+#     res = ""
+#     for i in range(1, n+1):
+#         res += str(i)+' sheep...'
+#     return res
 # var2
 # def count_sheep(n):
 #     return ''.join(f"{i} sheep..." for i in range(1, n+1))
 
 
-n = int(input())
-print(count_sheep(n))
+# n = int(input())
+# print(count_sheep(n))
