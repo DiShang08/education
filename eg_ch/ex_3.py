@@ -105,3 +105,11 @@
 #     i += 1
 # else:
 #     print("Распечатали все буквы")
+
+
+# def say_hello_world(name):
+#     print(f'{name} говорит hello world!')
+
+
+# name = input()
+# say_hello_world(name)
