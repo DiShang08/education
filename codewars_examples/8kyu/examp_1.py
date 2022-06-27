@@ -57,19 +57,28 @@
 
 # ex6 You're a square!
 # var1
-def is_square(n):
-    if n == 0:
-        return True
-    elif n < 0:
-        return False
-    else:
-        return n % (n**0.5) == 0
+# def is_square(n):
+#     if n == 0:
+#         return True
+#     elif n < 0:
+#         return False
+#     else:
+#         return n % (n**0.5) == 0
 # var2
 
 
-def is_square2(n):
-    return n >= 0 and (n**0.5) % 1 == 0
+# def is_square2(n):
+#     return n >= 0 and (n**0.5) % 1 == 0
 
 
-n = int(input())
-print(is_square(n))
+# n = int(input())
+# print(is_square(n))
+
+
+# ex7
+def xo(s):
+    return s.lower().count('o') == s.lower().count('x')
+
+
+s = input()
+print(xo(s))
