@@ -76,9 +76,21 @@
 
 
 # ex7
-def xo(s):
-    return s.lower().count('o') == s.lower().count('x')
+# def xo(s):
+#     return s.lower().count('o') == s.lower().count('x')
 
 
-s = input()
-print(xo(s))
+# s = input()
+# print(xo(s))
+
+
+# ex8
+def nb_year(p0, percent, aug, p):
+    year = 0
+    while p0 <= p:
+        p0 += int(p0*(percent/100)) + aug
+        year += 1
+    return year
+
+
+print(nb_year(1000, 2, 50, 1200))
