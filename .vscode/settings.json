@@ -1,4 +1,9 @@
 {
     "python.linting.flake8Enabled": true,
+<<<<<<< HEAD
     "python.linting.enabled": true
+=======
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false
+>>>>>>> 59048fbb2e8b56f3a173125d0925430e7f0c2b2c
 }

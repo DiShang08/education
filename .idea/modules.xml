@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/stepik_eg_ch.iml" filepath="$PROJECT_DIR$/.idea/stepik_eg_ch.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/education.iml" filepath="$PROJECT_DIR$/.idea/education.iml" />
+>>>>>>> 59048fbb2e8b56f3a173125d0925430e7f0c2b2c
     </modules>
   </component>
 </project>

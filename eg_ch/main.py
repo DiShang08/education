@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-
-if 1+1 > 1:
-    print("Correct")
-
-print("Hello world")
-=======
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -21,4 +14,3 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
->>>>>>> 59048fbb2e8b56f3a173125d0925430e7f0c2b2c

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (stepik_eg_ch)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (education)" project-jdk-type="Python SDK" />
+>>>>>>> 59048fbb2e8b56f3a173125d0925430e7f0c2b2c
 </project>
